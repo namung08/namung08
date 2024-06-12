@@ -1,4 +1,8 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&fontColor=ffffff&text=Hello%20I'm%20Sang-Jun&animation=fadeIn&fontSize=50&desc=이상준의%20GitHub페이지%20입니다&descAlignY=80&descSize=15" />
+
+:kr: namung08 / **Welcome-Page**
+
+✋ Hi there, I am a Back-End developer. To enhance my backend development skills and improve my problem-solving abilities, I have participated in IT training programs, including government-supported initiatives. I am committed to continuous learning and gaining practical experience to further develop my capabilities and grow as a developer.
 
 <!--
 **namung08/namung08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
