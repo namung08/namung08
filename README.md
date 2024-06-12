@@ -37,6 +37,10 @@ I am committed to continuous learning and gaining practical experience to furthe
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Most Code Languages
+
+<a href="https://github.com/namung08"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namung08&layout=compact&theme=nord&hide_border=true" /></a> 
+
 
 <!--
 **namung08/namung08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
