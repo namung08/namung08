@@ -35,7 +35,7 @@ I am committed to continuous learning and gaining practical experience to furthe
 
 ## My GitHub Stat
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namung08&show_icons=true&theme=tokyonight)](https://github.com/namung08)
 
 ## My Most Code Languages
 
