@@ -41,7 +41,9 @@ I am committed to continuous learning and gaining practical experience to furthe
 
 <a href="https://github.com/namung08"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namung08&layout=compact&theme=nord&hide_border=true" /></a> 
 
+## 💼 My Business Card
 
+![👉 Click to see my business card](https://namung08.github.io/toy-business-card/)
 <!--
 **namung08/namung08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
