@@ -43,7 +43,7 @@ I am committed to continuous learning and gaining practical experience to furthe
 
 ## 💼 My Business Card
 
-![👉 Click to see my business card](https://namung08.github.io/toy-business-card/)
+[👉 Click to see my business card](https://namung08.github.io/toy-business-card/)
 <!--
 **namung08/namung08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
